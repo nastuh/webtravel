@@ -17,3 +17,4 @@ Your starting point in the world of travel! Here you will find:
     Special offers are promotions that cannot be missed.
 
     Top destinations of the month — where are other travelers going?
+    
