@@ -1,4 +1,5 @@
-    WEBTRAVEL
+    WEBTRAVEL                   Apex Travel Solutions
+
 
 Apex Travel Solutions is your ideal guide around the world!
 
@@ -9,12 +10,7 @@ Features of our website:
 🌍Home page
 
 Your starting point in the world of travel! Here you will find:
-
     An interactive map with popular destinations.
-
     Quick Search — enter your city, country, or type of vacation, and we'll select the best options.
-
     Special offers are promotions that cannot be missed.
-
     Top destinations of the month — where are other travelers going?
-    
