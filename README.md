@@ -37,14 +37,18 @@ Don't know where to go? We will help!
     Real reviews are honest opinions of travelers.
 
 
+✍️ Registration Page
+
+Allows users to create new accounts.
+Required fields: name, email, password, and password confirmation.
+
+
+
     Who are we? The Apex Travel Solutions Team
 
 1 Nastya (Backend/frontend developer) - created a world map and also catalog.
-
 2 Timur (Backend/frontend developer) - created prices/discounts page.
-
 3 Platon (Backend/frontend developer) - created the main page.
-
 4 Gleb (Backend/frontend developer) - the registration page.
 
 
